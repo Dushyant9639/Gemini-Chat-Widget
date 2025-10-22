@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gemini Chat Widget
 
 A React-based interactive chat widget that integrates with Google’s Gemini API to provide AI-generated responses. This project demonstrates React hooks, the Context API, async data fetching, state management, and error handling while offering a polished, responsive chat interface.
@@ -49,3 +50,6 @@ my-app/
 3. The Gemini SDK generates a response.
 4. The response is appended to chat state; a typing/loading indicator shows while waiting.
 5. Chat history is persisted to `localStorage`.
+=======
+# Gemini-Chat-Widget
+>>>>>>> b80bd3409554809bf293123621ebbfbbd507eb6e
